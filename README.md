@@ -2,7 +2,6 @@
 
 This repo shows some basic experiments with AtomVM and ESP-32 devkit-v1.
 
-
 ## Setup AtomVM
 
 First of all, we need to install AtomVM with the command:
